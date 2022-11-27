@@ -95,7 +95,7 @@ public class App {
 
         }
 
-        PessoaIMC[] pessoasArray = new Homem[arrayTam];
+        
 
     }
 }
