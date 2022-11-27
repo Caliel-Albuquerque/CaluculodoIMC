@@ -1,7 +1,5 @@
 import Entidades.Homem;
 import Entidades.Mulher;
-import Entidades.PessoaIMC;
-
 
 import java.util.ArrayList;
 import java.util.Scanner;
